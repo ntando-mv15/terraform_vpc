@@ -1,8 +1,6 @@
 #Configure AWS provider
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIA5636JNKKTJKOKGCQWV3"
-  secret_key = "iRbGITTxKhhbaHDJjdjuBDT5ivmGBvWsp"
 }
 
 #1. Create VPC
