@@ -194,10 +194,10 @@ I understood the importance of the state file in Terraform and learned how to in
 
 I engaged in a hands-on project where I deployed a Virtual Private Cloud (VPC) along with its associated components, including public subnets, internet gateways, route tables, and network interface cards (NICs). This practical exercise provided a real-world scenario to apply Terraform concepts.
 
- - [Project Code Link](https://github.com/ntando.mv15/terraform_learn/blob/main/main.tf)
+ - [Project Code Link](https://github.com/ntando.mv15/terraform_vpc/blob/main/main.tf)
 
 
-Through the project, I gained valuable hands-on experience in using Terraform to provision and manage infrastructure. This practical experience reinforced my understanding of Terraform concepts and workflow. Refer to images below:
+Through the project, I gained valuable hands-on experience using Terraform to provision and manage infrastructure. This practical experience reinforced my understanding of Terraform concepts and workflow. Refer to the images below:
 
 ![Screenshot 2024-03-13 073846](https://github.com/ntando-mv15/terraform_learn/assets/88146095/d16ead65-cdb6-4f72-a41a-97c74c9f7861)
 
