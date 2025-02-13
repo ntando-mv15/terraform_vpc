@@ -1,13 +1,13 @@
-# Introduction to Terraform: A Crash Course
-### Instructor
-- Sanjeev Thiyagarajan from FreeCodeCamp.org
-- [Course Link](https://video.search.yahoo.com/search/video;_ylt=AwrFGTwAEPRl2z4A195XNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Nj?type=E210US885G0&p=Terraform+Course+-+Automate+your+AWS+cloud+infrastructure&fr=mcafee&turl=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOVP.RsD0woNeX_MUVk8TdFIWYAHgFo%26pid%3DApi%26w%3D296%26h%3D156%26c%3D7%26p%3D0&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSLB_c_ayRMo&tit=Terraform+Course+-+Automate+your+AWS+cloud+infrastructure&pos=01&vid=c41440587d41342914f6668c70f6cac7&sigr=8gHx5VoAp8M0&sigt=d6uVyDH_HFLi&sigi=n.GNYu8pVhMh)
-
+# Introduction to Terraform: Configuring a VPC and Webserver
 
 ## Overview
 This documentation outlines the content I covered in an introductory crash course on Terraform provided by FreeCodeCamp.org on YouTube. The course aims to provide learners with foundational knowledge and practical skills in using Terraform for infrastructure provisioning and management. I completed the course in three days, covering essential Terraform concepts, commands, and practical exercises.
 
 My motivation for learning Terraform stems from a dual purpose: firstly, to bolster my skills in cloud computing, particularly within the AWS ecosystem, driven by the desire to excel in projects like the AWS Cloud Resume Challenge, which demands infrastructure management using Terraform. Secondly, I recognize the broader utility of Terraform as a tool for personal skill development, enabling automation of infrastructure deployment and configuration in line with industry standards and practices. This endeavor serves not only to enhance my AWS proficiency but also to cultivate expertise in cloud architecture and infrastructure management, paving the way for future career opportunities in cloud computing and software engineering.
+
+### Course Instructor
+- Sanjeev Thiyagarajan from FreeCodeCamp.org
+- [Course Link](https://video.search.yahoo.com/search/video;_ylt=AwrFGTwAEPRl2z4A195XNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Nj?type=E210US885G0&p=Terraform+Course+-+Automate+your+AWS+cloud+infrastructure&fr=mcafee&turl=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOVP.RsD0woNeX_MUVk8TdFIWYAHgFo%26pid%3DApi%26w%3D296%26h%3D156%26c%3D7%26p%3D0&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSLB_c_ayRMo&tit=Terraform+Course+-+Automate+your+AWS+cloud+infrastructure&pos=01&vid=c41440587d41342914f6668c70f6cac7&sigr=8gHx5VoAp8M0&sigt=d6uVyDH_HFLi&sigi=n.GNYu8pVhMh)
 
 ## Day 1: Introduction to Terraform
 
@@ -209,6 +209,4 @@ Through the project, I gained valuable hands-on experience in using Terraform to
 
 
 
-## Conclusion
 
-This documentation serves as a comprehensive overview of the three-day crash course on Terraform provided by FreeCodeCamp.org. Participants are encouraged to further explore Terraform's capabilities and continue building upon the foundational knowledge gained from this course.
